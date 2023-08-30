@@ -8,6 +8,5 @@ int main() {
 
   printf("A média é %f\n", media);
 
-    
    return 0;
 }
